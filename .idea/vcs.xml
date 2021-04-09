@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BankingAppSparks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BottomSheetDialog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CustomToast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DatePicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DatePickers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DeliveryApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DeliveryAppUser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExpandedCardView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExpandedRecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Menus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MotionToast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PersistentBottomSheet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerView_with_ListViewAndCircleImageView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SharedPreference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleGrocery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StoryShare2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tablayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TimePicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UiinputControl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Volley_RecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Website" vcs="Git" />
+  </component>
+</project>
